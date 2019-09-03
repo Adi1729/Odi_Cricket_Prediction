@@ -1,2 +1,2 @@
 # Odi_Cricket_Prediction
-A machine learning developed to predict world cup 2019 matches 
+A machine learning model developed to predict world cup 2019 matches 
